@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body{
+  background-color: var(--LightGray)
+}
+
+.qr-code-component{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 270px;
+  padding: 15px;
+  border-radius: 15px;
+  background: var(--White);
+  text-align: center;
+}
+  .qr-code-component__image{
+    width: 100%;
+    border-radius: 15px;
+  }
+  .qr-code-component__title{
+    color: var(--DarkBlue);
+    
+  }
+  .qr-code-component__content{
+    color: var(--GrayishBlue);
+  }
