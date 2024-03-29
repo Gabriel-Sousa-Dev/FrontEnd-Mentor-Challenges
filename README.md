@@ -9,7 +9,7 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 - [Meu Processo](#meu-processo)
   - [Construído com](#construído-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
-  - [Continued development](#continued-development)
+  - [Desenvolvimento Contínuo](#desenvolvimento-contínuo )
   - [Useful resources](#conteúdo-útil)
 - [Autor](#autor)
 - [Acknowledgments](#acknowledgments)
@@ -50,9 +50,9 @@ Eu aprendi a utilizar Variáveis css e a utilizar o padrão Bem Css
 }
 ```
 
-### Continued development
+### Desenvolvimento Contínuo 
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Eu pretendo utilizar o padrão Bem css e as variáveis css mais vezes e organizar melhor as pastas e arquivos do projeto.
 
 ### Conteúdo útil 
 
