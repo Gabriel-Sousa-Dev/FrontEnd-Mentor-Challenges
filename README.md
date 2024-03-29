@@ -6,12 +6,12 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 
 - [Overview](#overview)
   - [Links](#links)
-- [My process](#meu-processo)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Meu Processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Autor](#autor)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -57,7 +57,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-## Author
+## Autor
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
