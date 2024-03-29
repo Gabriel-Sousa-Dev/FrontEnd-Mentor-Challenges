@@ -10,7 +10,7 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
   - [Construído com](#construído-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [Useful resources](#conteúdo-útil)
 - [Autor](#autor)
 - [Acknowledgments](#acknowledgments)
 
@@ -54,10 +54,10 @@ Eu aprendi a utilizar Variáveis css e a utilizar o padrão Bem Css
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-### Useful resources
+### Conteúdo útil 
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Artigo da Alura](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=dsa-2273097816642&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUs96aO5ibmma098fNJ1SLAX4CXah_-T0RhdPOJOPp473qPlz3WGQwaAntBEALw_wcB) - Este artigo da Alurame ajudou a entender o padrão Bem de forma prática. Eu gostei de usar esse padrãoprovavelmentevou usá-lo em outros projetos.
+- [Mdn Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) - Este artigo me ajudou a entender como usar as variáveis css. Eu recomendo a leiturado artigo para entender sobre esse conceito.
 
 ## Autor
 
