@@ -12,8 +12,6 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
   - [Desenvolvimento Contínuo](#desenvolvimento-contínuo )
   - [Useful resources](#conteúdo-útil)
 - [Autor](#autor)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -32,7 +30,7 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 
 ### O que eu aprendi 
 
-Eu aprendi a utilizar Variáveis css e a utilizar o padrão Bem Css
+Eu aprendi a utilizar Variáveis css e a utilizar o padrão Bem Css.
 
 ```css
 :root{
@@ -56,14 +54,9 @@ Eu pretendo utilizar o padrão Bem css e as variáveis css mais vezes e organiza
 
 ### Conteúdo útil 
 
-- [Artigo da Alura](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=dsa-2273097816642&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUs96aO5ibmma098fNJ1SLAX4CXah_-T0RhdPOJOPp473qPlz3WGQwaAntBEALw_wcB) - Este artigo da Alurame ajudou a entender o padrão Bem de forma prática. Eu gostei de usar esse padrãoprovavelmentevou usá-lo em outros projetos.
-- [Mdn Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) - Este artigo me ajudou a entender como usar as variáveis css. Eu recomendo a leiturado artigo para entender sobre esse conceito.
+- [Artigo da Alura](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=dsa-2273097816642&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gUs96aO5ibmma098fNJ1SLAX4CXah_-T0RhdPOJOPp473qPlz3WGQwaAntBEALw_wcB) - Este artigo da Alurame ajudou a entender o padrão Bem de forma prática. Eu gostei de usar esse padrão provavelmente vou usá-lo em outros projetos.
+- [Mdn Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) - Este artigo me ajudou a entender como usar as variáveis css. Eu recomendo a leitura do artigo para entender sobre esse conceito.
 
 ## Autor
 
 - Frontend Mentor - [@Gabriel-Sousa-Dev](https://www.frontendmentor.io/profile/Gabriel-Sousa-Dev)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
