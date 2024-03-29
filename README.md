@@ -61,7 +61,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Autor
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Gabriel-Sousa-Dev](https://www.frontendmentor.io/profile/Gabriel-Sousa-Dev)
 
 ## Acknowledgments
 
