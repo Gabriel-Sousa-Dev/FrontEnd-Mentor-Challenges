@@ -17,8 +17,8 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 
 ### Links
 
-- Url da Solução: [https://github.com/Gabriel-Sousa-Dev/Qr-code-component-Solution](https://github.com/Gabriel-Sousa-Dev/Qr-code-component-Solution)
-- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
+- Url da Solução: [https://www.frontendmentor.io/solutions/desafio-qrcodecomponent-FkcdbaSZSP](https://www.frontendmentor.io/solutions/desafio-qrcodecomponent-FkcdbaSZSP)
+- Live Site URL: [https://gabriel-sousa-dev.github.io/Qr-code-component-Solution/](https://gabriel-sousa-dev.github.io/Qr-code-component-Solution/)
 
 ## Meu processo 
 
