@@ -19,8 +19,8 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 
 ### Links
 
-- Url da Solução: [URL da solução](https://github.com/Gabriel-Sousa-Dev/Qr-code-component-Solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Url da Solução: [https://github.com/Gabriel-Sousa-Dev/Qr-code-component-Solution](https://github.com/Gabriel-Sousa-Dev/Qr-code-component-Solution)
+- Live Site URL: [https://your-live-site-url.com](https://your-live-site-url.com)
 
 ## Meu processo 
 
@@ -32,19 +32,21 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
 
 ### O que eu aprendi 
 
-Eu aprendi a utilizar Variáveis css
+Eu aprendi a utilizar Variáveis css e a utilizar o padrão Bem Css
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+:root{
+  --White: hsl(0, 0%, 100%);
+  --LightGray: hsl(212, 45%, 89%);
+  --GrayishBlue: hsl(220, 15%, 55%);
+  --DarkBlue: hsl(218, 44%, 22%);
+  font-family: "Outfit";
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+```css
+.qr-code-component__image{
+    width: 100%;
+    border-radius: 15px;
 }
 ```
 
