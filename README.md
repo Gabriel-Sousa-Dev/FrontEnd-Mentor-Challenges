@@ -10,7 +10,7 @@ Esta é uma solução para o desafio do componente de código QR no Frontend Men
   - [Construído com](#construído-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [Desenvolvimento Contínuo](#desenvolvimento-contínuo )
-  - [Useful resources](#conteúdo-útil)
+  - [Conteúdo Útil](#conteúdo-útil)
 - [Autor](#autor)
 
 ## Overview
